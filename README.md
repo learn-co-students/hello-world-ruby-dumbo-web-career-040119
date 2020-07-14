@@ -58,7 +58,9 @@ Your adventure in Ruby has only just begun!
 
 ### Hello World History
 
-A small piece of coding history—a handwritten version of Hello World in C (an early programming language). 
+"Hello World" is usually the first program that any programmer writes. It was introduced by [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) who in 1974 published the first tutorial on programming in C. Writer Clive Thompson mentions in his book "Coders" that Kernighan was apparently inspired by a cartoon with a chick character that hatches out of an egg and says these words.
+
+Here's a signed and framed version of Kernighan's "hello world" in C (an early programming language): 
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
